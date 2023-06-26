@@ -2,7 +2,6 @@
 
 [![MIT License][license-shield]][license-url]
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -26,31 +25,25 @@ Create strong and customizable passwords effortlessly with this ReactJS password
   </p>
 </div>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-    </li>
+ 
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#built-with">Built With</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
+
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -58,28 +51,26 @@ Generate secure and customizable passwords instantly. This ReactJS password gene
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ### Built With
 
-* [![TailwindCSS][Tailwind.css]][Tailwind-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
+- [![TailwindCSS][Tailwind.css]][Tailwind-url]
+- [![React][React.js]][React-url]
+- [![React-Toastify][React-Toastify]][React-Toastify-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 Feel free to explore, contribute, and improve the code on GitHub. Whether you want to add new features, optimize performance, or enhance the user interface, your expertise and creativity are welcomed to make this password generator even better.
 
-If you want to use, visit [Password-Generator in Netlify Deploy](https://example.com)_
+If you want to use, visit [Password-Generator in Netlify Deploy](https://password-crafter.netlify.app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -95,27 +86,25 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/B0lemix/react-password-generator](https://github.com/B0lemix/react-password-generator)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
@@ -144,8 +133,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com
 [Tailwind.css]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 [Tailwind-url]: https://tailwindcss.com/
-[React-Toastify-url]:https://fkhadra.github.io/react-toastify/introduction
-[React-Toastify]:https://fkhadra.github.io/react-toastify/introduction
+[React-Toastify-url]: https://fkhadra.github.io/react-toastify/introduction
+[React-Toastify]: https://github.com/fkhadra/react-toastify/workflows/React-toastify%20CI/badge.svg
